@@ -1,0 +1,26 @@
+.box{
+    height: 50px;
+    width: 50px;
+    border: thin dashed royalblue;
+    float: left;
+    
+}
+.box1{
+    margin-right: 10px;
+}
+
+.circle {
+    height: 20px;
+    width: 20px;
+    border: thin dashed royalblue;
+    margin: 14px 14px;
+    border-radius: 50%;
+}
+
+.circle1 {
+    height: 20px;
+    width: 20px;
+    border: thin dashed royalblue;
+    margin: 14px 14px;
+    border-radius: 50%;
+} 
